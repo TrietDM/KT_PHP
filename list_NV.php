@@ -6,6 +6,7 @@
     <title>List Nhan vien</title>
 </head>
 <body>
-    <?php include 'get_NV.php'; ?> <!-- Thay đổi đường dẫn tới tập tin PHP của bạn -->
+    <?php include 'get_NV.php'; ?> 
 </body>
+
 </html>
